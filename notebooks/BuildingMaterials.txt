@@ -1,0 +1,4 @@
+Concrete 2400 1000 2.0
+Insulation 40 1200 0.04
+Brick 1200 1000 1.2
+Wood 900 1100 0.5

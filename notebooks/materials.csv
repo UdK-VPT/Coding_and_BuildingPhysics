@@ -1,0 +1,5 @@
+,name,density,heatcapacity,heatconductivity
+0,Brick,1200,1000,1.2
+1,Concrete,2000,1000,2.0
+2,Insulation,40,1200,0.04
+3,Wood,900,800,0.6
